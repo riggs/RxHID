@@ -1,0 +1,23 @@
+{
+  "name": "rxchromehid",
+  "version": "1.0.0",
+  "description": "RxJS wrapper around the Chrome App chrome.hid API.",
+  "main": "RxHID.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riggs/RxChromeHID.git"
+  },
+  "keywords": [
+    "RxJS",
+    "HID"
+  ],
+  "author": "riggs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riggs/RxChromeHID/issues"
+  },
+  "homepage": "https://github.com/riggs/RxChromeHID#readme"
+}
