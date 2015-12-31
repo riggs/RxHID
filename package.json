@@ -1,7 +1,7 @@
 {
   "name": "rxchromehid",
   "version": "1.0.0",
-  "description": "RxJS wrapper around the Chrome App chrome.hid API.",
+  "description": "Trivial RxJS wrapper around the Chrome App chrome.hid API.",
   "main": "RxHID.js",
   "dependencies": {
     "rx": "^4.0.7"
